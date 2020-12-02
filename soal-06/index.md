@@ -1,0 +1,1 @@
+**Gitlab** Dikarenakan gitlab merupakan satu satunya git provider yang berbasis open-source dan semua fiturnya bisa diakses tanpa menggunakan biaya sedikitpun, gitlab juga sudah terintegrasi dengan CI functionality
